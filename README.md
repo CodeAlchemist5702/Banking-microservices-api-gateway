@@ -1,2 +1,2 @@
-# Banking-microservices-
-This repo has all the services related to banking project 
+# Banking-microservices-api-gateway
+This repo has code for api-gateway
